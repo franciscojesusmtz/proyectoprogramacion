@@ -41,6 +41,9 @@ proyectos de programacion
 [programa 13](https://github.com/franciscojesusmtz/proyectoprogramacion/blob/main/ps2%20fco.py)
 
 [programa 14](https://github.com/franciscojesusmtz/proyectoprogramacion/blob/main/ps3%20fco.py)
+
 [programa 15](https://github.com/franciscojesusmtz/proyectoprogramacion/blob/main/ps5%20fco.py)
-[programa 15](https://github.com/franciscojesusmtz/proyectoprogramacion/blob/main/ps6%20fco.py)
-[programa 15](https://github.com/franciscojesusmtz/proyectoprogramacion/blob/main/secante%20fco.py)
+
+[programa 16](https://github.com/franciscojesusmtz/proyectoprogramacion/blob/main/ps6%20fco.py)
+
+[programa 17](https://github.com/franciscojesusmtz/proyectoprogramacion/blob/main/secante%20fco.py)
